@@ -2,25 +2,25 @@
 
 A collection of packages that build a website using `npm scripts`.
 
-* [List of packages used](#list-of-packages-used)
+* [Packages used](#Packages-used)
 * [Using in your project](#using-in-your-project)
 * [List of available tasks](#list-of-available-tasks)
 * [Need help?](#need-help)
 
-## List of packages used
-    * [prettier](https://www.npmjs.com/package/prettier)
-    * [babel-cli](https://www.npmjs.com/package/babel-cli)
-    * [autoprefixer](https://github.com/postcss/autoprefixer)
-    * [browser-sync](https://github.com/Browsersync/browser-sync)
-    * [eslint](https://github.com/eslint/eslint)
-    * [imagemin-cli](https://github.com/imagemin/imagemin-cli)
-    * [node-sass](https://github.com/sass/node-sass)
-    * [onchange](https://github.com/Qard/onchange)
-    * [npm-run-all](https://github.com/mysticatea/npm-run-all)
-    * [postcss-cli](https://github.com/code42day/postcss-cli)
-    * [svgo](https://github.com/svg/svgo)
-    * [svg-sprite-generator](https://github.com/frexy/svg-sprite-generator)
-    * [uglify-js](https://github.com/mishoo/UglifyJS2)
+## Packages used
+  * [prettier](https://www.npmjs.com/package/prettier)
+  * [babel-cli](https://www.npmjs.com/package/babel-cli)
+  * [autoprefixer](https://github.com/postcss/autoprefixer)
+  * [browser-sync](https://github.com/Browsersync/browser-sync)
+  * [eslint](https://github.com/eslint/eslint)
+  * [imagemin-cli](https://github.com/imagemin/imagemin-cli)
+  * [node-sass](https://github.com/sass/node-sass)
+  * [onchange](https://github.com/Qard/onchange)
+  * [npm-run-all](https://github.com/mysticatea/npm-run-all)
+  * [postcss-cli](https://github.com/code42day/postcss-cli)
+  * [svgo](https://github.com/svg/svgo)
+  * [svg-sprite-generator](https://github.com/frexy/svg-sprite-generator)
+  * [uglify-js](https://github.com/mishoo/UglifyJS2)
 
 ## Using as is
 * Make sure you have Node and Npm installed on your machine , [go here](https://nodejs.org/en/download/package-manager/)
