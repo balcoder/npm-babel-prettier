@@ -107,7 +107,3 @@ You're ready to go! Run any task by typing `npm run task` (where "task" is the n
   `npm run build:all && npm run watch:all`
 
   Runs `watch:all` after `npm install` is finished
-
-
-## Need help?
-Feel free to [create an issue](http://github.com/damonbauer/npm-build-boilerplate/issues), [tweet me](http://twitter.com/damon_bauer), or [send me an email](mailto:hello@damonbauer.me). I'd be glad to help where I can!
