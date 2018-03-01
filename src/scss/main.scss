@@ -3,8 +3,12 @@
 
 body {
   background-color: $color-teal-base;
+  
 }
 
+h1 {
+  text-align: center;
+}
 .foo {
   @include absolute(0, 0, auto, auto);
 }
