@@ -8,9 +8,19 @@ A collection of packages that build a website using `npm scripts`.
 * [Need help?](#need-help)
 
 ## List of packages used
-[autoprefixer](https://github.com/postcss/autoprefixer), [browser-sync](https://github.com/Browsersync/browser-sync), [eslint](https://github.com/eslint/eslint), [imagemin-cli](https://github.com/imagemin/imagemin-cli), [node-sass](https://github.com/sass/node-sass), [onchange](https://github.com/Qard/onchange), [npm-run-all](https://github.com/mysticatea/npm-run-all), [postcss-cli](https://github.com/code42day/postcss-cli), [svgo](https://github.com/svg/svgo), [svg-sprite-generator](https://github.com/frexy/svg-sprite-generator), [uglify-js](https://github.com/mishoo/UglifyJS2).
-
-Many, many thanks go out to Keith Cirkel for [his post](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) and his useful CLI tools!
+  * [prettier](https://www.npmjs.com/package/prettier)
+  * [babel-cli](https://www.npmjs.com/package/babel-cli)
+  * [autoprefixer](https://github.com/postcss/autoprefixer)
+  * [browser-sync](https://github.com/Browsersync/browser-sync)
+  * [eslint](https://github.com/eslint/eslint)
+  * [imagemin-cli](https://github.com/imagemin/imagemin-cli)
+  * [node-sass](https://github.com/sass/node-sass)
+  * [onchange](https://github.com/Qard/onchange)
+  * [npm-run-all](https://github.com/mysticatea/npm-run-all)
+  * [postcss-cli](https://github.com/code42day/postcss-cli)
+  * [svgo](https://github.com/svg/svgo)
+  * [svg-sprite-generator](https://github.com/frexy/svg-sprite-generator)
+  * [uglify-js](https://github.com/mishoo/UglifyJS2)
 
 ## Using in your project
 * First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
