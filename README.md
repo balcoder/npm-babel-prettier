@@ -1,4 +1,4 @@
-# npm-build-boilerplate
+# Npm Babel Prettier Build Tools
 
 A collection of packages that build a website using `npm scripts`.
 
@@ -8,19 +8,25 @@ A collection of packages that build a website using `npm scripts`.
 * [Need help?](#need-help)
 
 ## List of packages used
-  * [prettier](https://www.npmjs.com/package/prettier)
-  * [babel-cli](https://www.npmjs.com/package/babel-cli)
-  * [autoprefixer](https://github.com/postcss/autoprefixer)
-  * [browser-sync](https://github.com/Browsersync/browser-sync)
-  * [eslint](https://github.com/eslint/eslint)
-  * [imagemin-cli](https://github.com/imagemin/imagemin-cli)
-  * [node-sass](https://github.com/sass/node-sass)
-  * [onchange](https://github.com/Qard/onchange)
-  * [npm-run-all](https://github.com/mysticatea/npm-run-all)
-  * [postcss-cli](https://github.com/code42day/postcss-cli)
-  * [svgo](https://github.com/svg/svgo)
-  * [svg-sprite-generator](https://github.com/frexy/svg-sprite-generator)
-  * [uglify-js](https://github.com/mishoo/UglifyJS2)
+    * [prettier](https://www.npmjs.com/package/prettier)
+    * [babel-cli](https://www.npmjs.com/package/babel-cli)
+    * [autoprefixer](https://github.com/postcss/autoprefixer)
+    * [browser-sync](https://github.com/Browsersync/browser-sync)
+    * [eslint](https://github.com/eslint/eslint)
+    * [imagemin-cli](https://github.com/imagemin/imagemin-cli)
+    * [node-sass](https://github.com/sass/node-sass)
+    * [onchange](https://github.com/Qard/onchange)
+    * [npm-run-all](https://github.com/mysticatea/npm-run-all)
+    * [postcss-cli](https://github.com/code42day/postcss-cli)
+    * [svgo](https://github.com/svg/svgo)
+    * [svg-sprite-generator](https://github.com/frexy/svg-sprite-generator)
+    * [uglify-js](https://github.com/mishoo/UglifyJS2)
+
+## Using as is
+* Make sure you have Node and Npm installed on your machine , [go here](https://nodejs.org/en/download/package-manager/)
+* From the terminal cd into your project directory and run  `npm install` to install all the dependencies in the package.json
+  file.
+* Then you can run any of the scripts from the package.json file by running `npm run script-name`, for example the the most frequently used script would be `npm run watch:all` which runs the server and watches for changes in scss, js, and images and converts to es5 and creates the production ready minified, prettified and bundled files.
 
 ## Using in your project
 * First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
