@@ -15,7 +15,8 @@
     "watch",
     "minify",
     "compress",
-    "prettier"
+    "prettier",
+    "babel"
   ],
   "scripts": {
     "clean":  "rimraf dist/{css/*,js/*,js-min/*,images/*} && rimraf es5/js/*",
